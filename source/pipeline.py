@@ -45,7 +45,7 @@ def run_training_pipeline(
     evaluate_on_validation(pipeline, X_val, y_val, model_name="Logistic Regression (Optimized)")
     cross_validate_pipeline(pipeline, X, y, model_name="Logistic Regression (Optimized)")
  
-    print("\n✅ Training pipeline complete!")
+    print("\nTraining pipeline complete!")
  
  
 def run_prediction_pipeline(
