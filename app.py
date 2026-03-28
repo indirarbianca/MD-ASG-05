@@ -8,12 +8,12 @@ from source.pipeline import predict_single
  
 # page config 
 st.set_page_config(
-    page_title="ASG 04 MD - Indira - Spaceship Titanic",
+    page_title="ASG 05 MD - Indira - Proper Pipeline for the Spaceship Titanic + Deploy",
     page_icon="🚀",
     layout="centered",
 )
  
-st.title("ASG 04 MD - Indira - Spaceship Titanic Model Deployment")
+st.title("ASG 05 MD - Indira - Proper Pipeline for the Spaceship Titanic + Deploy")
 st.markdown(
     "Enter passenger details below to predict whether they were "
     "**transported to an alternate dimension**."
