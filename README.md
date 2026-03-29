@@ -1,6 +1,6 @@
 # ASG 05 MD - Proper Pipeline for the Spaceship Titanic + Deploy
 
-Predict which passengers were transported to an alternate dimension using Logistic Regression.
+Predict which passengers were transported to an alternate dimension using Ordinal Regression.
 
 ## Project Structure
 
